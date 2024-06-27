@@ -8,5 +8,6 @@ public class Demo {
         String jina = "Stephen Oduor Otieno";
 
         name.getName(jina);
+
     }
 }
